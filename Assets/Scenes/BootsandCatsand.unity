@@ -204,8 +204,9 @@ Transform:
   - {fileID: 1030106282}
   - {fileID: 376602258}
   - {fileID: 1059414569}
+  - {fileID: 2006345970}
   m_Father: {fileID: 1990086564}
-  m_RootOrder: 12
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &49455841
 GameObject:
@@ -945,7 +946,7 @@ Transform:
   - {fileID: 1696115695}
   - {fileID: 1581855771}
   m_Father: {fileID: 1990086564}
-  m_RootOrder: 15
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &171784476
 GameObject:
@@ -1266,8 +1267,8 @@ Transform:
   - {fileID: 1015049013}
   - {fileID: 623693116}
   - {fileID: 378121889}
-  m_Father: {fileID: 1990086564}
-  m_RootOrder: 5
+  m_Father: {fileID: 2036020584}
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 180.00002, z: 0}
 --- !u!1 &250058383
 GameObject:
@@ -2712,7 +2713,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1990086564}
-  m_RootOrder: 13
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!82 &386346338
 AudioSource:
@@ -5125,8 +5126,8 @@ Transform:
   - {fileID: 2060222270}
   - {fileID: 1802182590}
   - {fileID: 619884826}
-  m_Father: {fileID: 1990086564}
-  m_RootOrder: 6
+  m_Father: {fileID: 2036020584}
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 270, z: 0}
 --- !u!1 &671622281
 GameObject:
@@ -6225,7 +6226,7 @@ Transform:
   - {fileID: 1157852331}
   - {fileID: 2005312463}
   m_Father: {fileID: 1990086564}
-  m_RootOrder: 7
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &783458054
 GameObject:
@@ -13724,8 +13725,9 @@ Transform:
   - {fileID: 443551750}
   - {fileID: 1103906305}
   - {fileID: 250058384}
+  - {fileID: 1861502677}
   m_Father: {fileID: 1990086564}
-  m_RootOrder: 11
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1330701995
 GameObject:
@@ -17706,7 +17708,7 @@ Transform:
   m_LocalScale: {x: 15, y: 1, z: 4}
   m_Children: []
   m_Father: {fileID: 1990086564}
-  m_RootOrder: 8
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &1409366600
 MeshRenderer:
@@ -20452,7 +20454,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1990086564}
-  m_RootOrder: 14
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!82 &1713896098
 AudioSource:
@@ -20888,14 +20890,14 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1747587705}
   m_LocalRotation: {x: -0, y: 0.70710677, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 0, y: 0, z: -0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1810317907}
   - {fileID: 396629067}
   - {fileID: 1567879691}
-  m_Father: {fileID: 1990086564}
-  m_RootOrder: 4
+  m_Father: {fileID: 2036020584}
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 90.00001, z: 0}
 --- !u!1 &1782363546
 GameObject:
@@ -21770,12 +21772,12 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1861502676}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -6, y: 2, z: 9}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -6.5, y: 2, z: 9}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 1990086564}
-  m_RootOrder: 9
+  m_Father: {fileID: 1315695543}
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!82 &1861502678
 AudioSource:
@@ -22145,15 +22147,15 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1937311243}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 654530655}
   - {fileID: 498735500}
   - {fileID: 713772757}
-  m_Father: {fileID: 1990086564}
-  m_RootOrder: 3
+  m_Father: {fileID: 2036020584}
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1966506703
 GameObject:
@@ -22385,14 +22387,9 @@ Transform:
   - {fileID: 292814579}
   - {fileID: 109990700}
   - {fileID: 2016846098}
-  - {fileID: 1937311244}
-  - {fileID: 1747587706}
-  - {fileID: 247008886}
-  - {fileID: 658684201}
   - {fileID: 781800814}
   - {fileID: 1409366599}
-  - {fileID: 1861502677}
-  - {fileID: 2006345970}
+  - {fileID: 2036020584}
   - {fileID: 1315695543}
   - {fileID: 40427792}
   - {fileID: 386346337}
@@ -25970,11 +25967,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2006345969}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 6, y: 2, z: 9}
+  m_LocalPosition: {x: -5.5, y: 2, z: 9}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 1990086564}
-  m_RootOrder: 10
+  m_Father: {fileID: 40427792}
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!82 &2006345971
 AudioSource:
@@ -26273,6 +26270,38 @@ MeshFilter:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2023205881}
   m_Mesh: {fileID: 10206, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &2036020583
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 2036020584}
+  m_Layer: 0
+  m_Name: Lasers
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2036020584
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2036020583}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1937311244}
+  - {fileID: 1747587706}
+  - {fileID: 247008886}
+  - {fileID: 658684201}
+  m_Father: {fileID: 1990086564}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2060222269
 GameObject:
   m_ObjectHideFlags: 0
